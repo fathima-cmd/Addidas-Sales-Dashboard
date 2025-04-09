@@ -5,6 +5,7 @@ It dives deeper into performance breakdowns across sales channels (in-store, onl
 
 ## Dataset
 The data contains the following column: 
+
 -Retailer: Represents the business or individual that sells Adidas products directly to consumers.
 
 -Retailer ID: A unique identifier assigned to each retailer in the dataset.
